@@ -1,0 +1,14 @@
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.exe
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.deps.json
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.json
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.dev.json
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.dll
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.pdb
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csproj.AssemblyReference.cache
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfoInputs.cache
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfo.cs
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.dll
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.pdb
+D:\CS\C#.NET\code\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.genruntimeconfig.cache

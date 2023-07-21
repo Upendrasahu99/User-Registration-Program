@@ -1,0 +1,6 @@
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\obj\Debug\netcoreapp3.1\UserRegistrationTests.csproj.AssemblyReference.cache
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\obj\Debug\netcoreapp3.1\UserRegistrationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\obj\Debug\netcoreapp3.1\UserRegistrationTests.AssemblyInfoInputs.cache
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\obj\Debug\netcoreapp3.1\UserRegistrationTests.AssemblyInfo.cs
+D:\CS\C#.NET\code\UserRegistration\UserRegistrationTests\obj\Debug\netcoreapp3.1\UserRegistrationTests.csproj.CoreCompileInputs.cache
